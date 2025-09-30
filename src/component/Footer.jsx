@@ -69,18 +69,18 @@ function Footer() {
                     </div>
 
 
-                    <div className="border-t md:w-[1400px] w-[300px] border-gray-700"></div>
+                    
 
 
 
 
-                    <div className=' text-gray-500 md:-ms-90 text-sm '>
-                        <h1> © 2025 Scent Haven. All rights reserved.</h1>
-                    </div>
+                   
 
 
                 </div>
-
+ <div className=' text-gray-500 px-10 text-sm '>
+                        <h1> © 2025 Scent Haven. All rights reserved.</h1>
+                    </div>
 
 
 
