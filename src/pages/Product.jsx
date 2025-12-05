@@ -47,8 +47,8 @@ function Product() {
                           <p className="text-gray-400 line-through text-sm">{item.old}</p>
                         </div>
     
-                        <div className='bg-amber-900 rounded-full h-6 flex justify-center items-center hover:bg-pink-600 w-6'>
-                          <CgShoppingCart size={15} />
+                        <div className='bg-amber-900  rounded-full h-6 flex justify-center items-center hover:bg-pink-600 w-6'>
+                          <CgShoppingCart size={15} color='white' />
                         </div>
                       </div>
                     </div>

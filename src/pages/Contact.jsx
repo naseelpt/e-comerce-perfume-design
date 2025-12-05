@@ -13,7 +13,7 @@ function Contact() {
 
         <div className='px-5 py-10 '>
 
-          <div className='grid md:grid-cols-2 sm:grid-cols-1 grid-cols-1 px-10 gap-5 '>
+          <div className='grid xl:grid-cols-2 grid-cols-1 xl:px-10 px- gap-5 '>
 
             <div className='bg-white rounded-2xl p-10'>
 

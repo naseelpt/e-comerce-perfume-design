@@ -10,7 +10,7 @@ function Aboutus() {
     
             <div className='px-8 py-16 bg-gray-50 '>
     
-              <div className='grid md:grid-cols-2 sm:grid-cols-2 grid-cols-1 '>
+              <div className='grid xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 grid-cols-1 '>
     
                 <div className='w-full md:h-[500px] sm:h-[350px] h-[350px] bg-cover rounded-2xl' style={{ backgroundImage: `url(${aa})` }}>
     

@@ -15,7 +15,7 @@ function Offer() {
     
               <div className='w-full'>
     
-                <div className='grid md:grid-cols-3 gap-5 sm-grid-cols-2 grid-cols-1 p-8 w-full'>
+                <div className='grid xl:grid-cols-3 lg:grid-cols-2 gap-5 md-grid-cols-2 sm:grid-cols-1 grid-cols-1 p-8 w-full'>
     
                   <div className='bg-amber-300 transition-transform hover:scale-105 w-full p-5 rounded-2xl '>
     

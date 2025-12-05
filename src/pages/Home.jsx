@@ -27,17 +27,17 @@ function Home() {
 
       <div className='w-full ' style={{ backgroundColor: "#f8f1e5" }}>
 
-        <div className='grid grid-cols-1 sm-grid-cols-2 md:grid-cols-2 p-16'>
+        <div className='grid grid-cols-1 sm-grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 xl:p-16 p-3'>
 
           <div className='py-24'>
 
-            <h1 className='font-bold text-5xl'>Discover The Best Deals</h1>
+            <h1 className='font-bold xl:text-5xl text-4xl'>Discover The Best Deals</h1>
 
-            <h1 className='font-bold text-5xl py-3'>on Top Products</h1>
+            <h1 className='font-bold xl:text-5xl text-4xl py-3'>on Top Products</h1>
 
-            <p className='mt-3 text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, qui! </p>
+            <p className='mt-3 xl:text-xl text-lg'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, qui! </p>
 
-            <p className=' text-xl'> Quaerat optio delectus amet atque voluptatem nihil voluptatum </p>
+            <p className=' xl:text-xl text-lg'> Quaerat optio delectus amet atque voluptatem nihil voluptatum </p>
 
             <p className='text-xl'>velit drolem</p>
 
@@ -51,7 +51,7 @@ function Home() {
 
           </div>
 
-          <div className='w-full'>
+          <div className='w-full pt-28 xl:pt-0'>
             <img src={i} alt="" className='w-full h-auto  rounded-2xl' />
           </div>
 
