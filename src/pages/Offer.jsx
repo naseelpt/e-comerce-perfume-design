@@ -7,7 +7,7 @@ function Offer() {
 
      <div className='w-full'>
     
-            <div className='bg-gray-200 md:p-20'>
+            <div className='bg-gray-200 xl:p-20 lg:p-16 md:p-16 sm:p-10 py-10 px-1'>
     
               <h1 className='text-center md:text-4xl text-xl sm-text-3xl font-bold'>Special Offers</h1>
     
@@ -15,7 +15,7 @@ function Offer() {
     
               <div className='w-full'>
     
-                <div className='grid xl:grid-cols-3 lg:grid-cols-2 gap-5 md-grid-cols-2 sm:grid-cols-1 grid-cols-1 p-8 w-full'>
+                <div className='grid xl:grid-cols-3 lg:grid-cols-2 gap-5 md-grid-cols-2 sm:grid-cols-1 grid-cols-1 xl:p-8 p-3 w-full'>
     
                   <div className='bg-amber-300 transition-transform hover:scale-105 w-full p-5 rounded-2xl '>
     

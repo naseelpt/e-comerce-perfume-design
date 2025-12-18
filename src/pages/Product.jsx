@@ -20,7 +20,7 @@ function Product() {
   return (
     <>
 
-    <div className="w-full bg-gray-200 p-16">
+    <div className="w-full bg-gray-200 xl:p-16 py-10 px-8">
             <h2 className="md:text-2xl text-xl text-amber-900 font-bold mb-4">Featured Products</h2>
     
     
