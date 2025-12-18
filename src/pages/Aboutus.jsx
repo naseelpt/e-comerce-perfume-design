@@ -10,7 +10,7 @@ function Aboutus() {
     
             <div className='xl:px-10 lg:px-5 md:px-5 sm:px-3 px-3  py-16 bg-gray-50 '>
     
-              <div className='grid xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 grid-cols-1 '>
+              <div className='grid xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 grid-cols-1 gap-5 '>
     
                 <div className=''>
     

@@ -29,7 +29,7 @@ function Ctegories() {
 
    <div className="w-full">
   {/* Fragrance Collection */}
-  <div className="bg-amber-50 md:p-20 sm:p-16 p-8">
+  <div className="bg-amber-50 xl::p-20 lg:p-16 md:p-12 sm:p-12 p-6">
     <h1 className="text-center md:text-4xl sm:text-3xl text-xl font-bold">
       Explore Our Fragrance Collection
     </h1>
