@@ -12,7 +12,7 @@ function Aboutus() {
     
               <div className='grid xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 grid-cols-1 '>
     
-                <div className='xl:px-10 lg:px-5 md:px-5 sm:px-3 px-2  py-3'>
+                <div className=''>
     
                   <h1 className='text-4xl text-amber-700 font-bold'>About Us</h1>
     
