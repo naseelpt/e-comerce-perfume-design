@@ -8,7 +8,7 @@ function Aboutus() {
 
     <div className='w-full'>
     
-            <div className='px-8 py-16 bg-gray-50 '>
+            <div className='xl:px-10 lg:px-5 md:px-5 sm:px-3 px-2  py-16 bg-gray-50 '>
     
               <div className='grid xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 grid-cols-1 '>
     
